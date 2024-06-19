@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="MenuTest">
         <h5>MENU</h5>
         <input type="text" v-model="name">
         <br>
@@ -29,7 +29,7 @@ export default {
             checkRadio: 1
         }
     },
-}
+} 
 </script>
 <script scoped>
 
